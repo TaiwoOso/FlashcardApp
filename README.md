@@ -5,14 +5,10 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+Flashcard Application
 
 ### App Walk-though
 <img src="https://media.giphy.com/media/Q1fn1orXiczpWG6ZiT/giphy.gif" width=200><br>
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] Create New Project in Android Studio
