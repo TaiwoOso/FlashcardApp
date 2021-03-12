@@ -31,7 +31,7 @@ Created a Flashcard App with a question and answer.
 Created a way for users to create their own flashcards.
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://media.giphy.com/media/Ur4Eemn56J0PT2nqMw/giphy.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
