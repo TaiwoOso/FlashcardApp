@@ -55,7 +55,7 @@ Created a way for users to create their own flashcards.
 Added Flashcard Database and Next Icon
 
 ### App Walk-though
-<img src="https://media.giphy.com/media/adZAKKMyWVfoRzSnOj/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/wCb5wWyDHR6UEhMmnc/giphy.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
